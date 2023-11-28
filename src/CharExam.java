@@ -7,7 +7,8 @@ public class CharExam {
         char e = '4';
         char f = '5';
         int sum = (b-a)+(c-a)+(d-a)+(e-a)+(f-a);
-        System.out.println("sum = " + sum);
+        System.out.print("sum = " + sum);
+        System.out.println(); // 개행, 줄바꿈
 
     }
 }
