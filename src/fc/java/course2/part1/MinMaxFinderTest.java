@@ -1,5 +1,4 @@
 package fc.java.course2.part1;
-
 import fc.java.model2.MinMaxFinder;
 
 public class MinMaxFinderTest {
